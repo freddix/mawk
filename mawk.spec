@@ -3,7 +3,7 @@
 Summary:	An interpreter for the awk programming language
 Name:		mawk
 Version:	1.3.4
-Release:	0.%{snap}.1
+Release:	0.%{snap}.2
 License:	GPL
 Group:		Applications/Text
 Source0:	ftp://invisible-island.net/mawk/%{name}-%{version}-%{snap}.tgz
